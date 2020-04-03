@@ -15,7 +15,7 @@ while True:
 	random.seed = (os.urandom(1024))
 
 
-	url = 'https://d6f0f8ec.ngrok.io/login.php'
+	url = 'https://www.google.com'
 
 	
 
