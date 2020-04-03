@@ -12,6 +12,7 @@ Changelog
 - Randomizes both passwords and G-mail accounts
 
 
-Hello and welcome to the "Scammer Spammer"
-This is a conceptual script for educational purposes only and i take no responsibility for what you might choose to do with the code.
+This is a conceptual script for educational purposes only.
+I take no responsibility for what you might choose to do with the code.
+
 Credits to https://github.com/engineer-man
