@@ -7,7 +7,7 @@ https://www.python.org/downloads/
 
 
 Changelog
-*Removed the need for external listing of names to genereta E mails.
+*Removed the need for external listing of names to generate E mails.
 - Loop set to infinite
 - Randomizes both passwords and G-mail accounts
 
